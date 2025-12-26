@@ -1,4 +1,4 @@
-# 📋 TaskFlow - Board Interactivo con Swapy
+# 📋 TaskFlow - Board Interactivo con SortableJs
 
 > Un tablero de gestión de tareas dinámico con funcionalidad Drag & Drop, diseño responsivo y persistencia de datos.
 
@@ -6,13 +6,13 @@
 
 🖼️ Vista previa
 
-![Swapy_cards](preview.gif)
+![Sortable_cards](previewsort.gif)
 
 --- 
 
 ✨ Pruebalo Online
 
-[Swapy_cards](https://jcduro.bexartideas.com/proyectos/swapy_cards/index.html)
+[Sortable_cards](https://jcduro.bexartideas.com/proyectos/swapy_cards/index.html)
 
 --- 
 
