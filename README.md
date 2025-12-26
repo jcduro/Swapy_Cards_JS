@@ -20,7 +20,7 @@
 
 Este proyecto es una aplicación web tipo **Kanban** (similar a Trello) que permite organizar tareas en diferentes estados: "Por hacer", "En proceso" y "Terminado". 
 
-El objetivo principal fue implementar una interfaz de usuario moderna y fluida, separando la lógica de negocio (`swapy.js`) de la estructura visual, y utilizando el almacenamiento local del navegador para que los datos no se pierdan al recargar.
+El objetivo principal fue implementar una interfaz de usuario moderna y fluida, separando la lógica de negocio (`sortable.js`) de la estructura visual, y utilizando el almacenamiento local del navegador para que los datos no se pierdan al recargar.
 
 ## ✨ Características Principales
 
