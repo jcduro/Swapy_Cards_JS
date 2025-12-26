@@ -12,7 +12,7 @@
 
 ✨ Pruebalo Online
 
-[Sortable_cards](https://jcduro.bexartideas.com/proyectos/swapy_cards/index.html)
+[Sortable_cards](https://jcduro.bexartideas.com/proyectos/dashjc/sort_cards/sortable.php)
 
 --- 
 
