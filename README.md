@@ -1,16 +1,16 @@
-# 📋 TaskFlow - Board Interactivo con SortableJs
+## 📋 TaskFlow - Board Interactivo con SortableJs
 
 > Un tablero de gestión de tareas dinámico con funcionalidad Drag & Drop, diseño responsivo y persistencia de datos.
 
 ---
 
-🖼️ Vista previa
+## 🖼️ Vista previa
 
 ![Sortable_cards](previewsort.gif)
 
 --- 
 
-✨ Pruebalo Online
+## ✨ Pruebalo Online
 
 [Sortable_cards](https://jcduro.bexartideas.com/proyectos/dashjc/sort_cards/sortable.php)
 
@@ -32,17 +32,17 @@ El objetivo principal fue implementar una interfaz de usuario moderna y fluida, 
 
 ---
 
-📊 Lenguajes y Herramientas
+## 📊 Lenguajes y Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
 
 ---
 
-🙋‍♂️ Autor
+## 🙋‍♂️ Autor
 Desarrollado por JcDuro
 © 2025 JcDuro - Code & Ideas
 
 ---
 
-📝 Licencia
+## 📝 Licencia
 Este proyecto es de código abierto. Puedes modificarlo y adaptarlo para fines educativos o personales.
