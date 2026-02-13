@@ -42,7 +42,15 @@ El objetivo principal fue implementar una interfaz de usuario moderna y fluida, 
 Desarrollado por JcDuro
 © 2025 JcDuro - Code & Ideas
 
+
+--- 
+
+## 📄 Licencia
+Libre, usalo como quieras
+<div align="center">
+  Hecho con 💙 y neones
+</div>
+
 ---
 
-## 📝 Licencia
-Este proyecto es de código abierto. Puedes modificarlo y adaptarlo para fines educativos o personales.
+## ⭐ Si te gustó este proyecto, no olvides dejar una estrella en GitHub!
